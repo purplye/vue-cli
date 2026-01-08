@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "scrapling-fetch-mcp": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "iflow-mcp_scrapling-fetch-mcp",
+        "scrapling-fetch-mcp"
+      ],
+      "values": {}
+    }
+  }
+}
